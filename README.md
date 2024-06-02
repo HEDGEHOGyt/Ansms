@@ -8,7 +8,7 @@
 ## Installation
 To use the tool, execute the following commands:
 ```bash
-$ git clone https://github.com/AbdulRKB/Anonymous-SMS.git
+$ git clone https://github.com/HEDGEHOGEyt/Ansms.github.io.git
 $ cd Anonymous-SMS
 $ pip install -r requirements.txt
 $ python main.py
